@@ -37,4 +37,4 @@ cd /var/lib/jenkins/secrets
 
 echo "================================="
 
-cat /var/lib/jenkins/secrets/initialAdminPassword
+cat initialAdminPassword
