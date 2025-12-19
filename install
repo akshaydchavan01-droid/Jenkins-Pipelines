@@ -28,3 +28,9 @@ echo "================================="
 apt install jenkins -y
 
 echo "==============================="
+
+cd /var/lib/jenkins/secrets
+
+echo "================================='
+
+cat /var/lib/jenkins/secrets/initialAdminPassword
